@@ -1,7 +1,7 @@
 # Java Project
 ## Java Project Structure
 
-*Default Structure for A java Project*
+*Basic Data Types, Flow Control and Loops*
 
 
 **Java 8**
